@@ -3,6 +3,7 @@ package models.gui;
 import models.Message;
 import models.chatClients.ChatClient;
 import models.chatClients.InMemoryChatClient;
+import models.database.DbInitializer;
 
 import javax.swing.*;
 import java.awt.*;

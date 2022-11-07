@@ -74,5 +74,50 @@
     "author": "System",
     "text": "asd has left the chat.",
     "created": "2022-11-07 14:14:48"
+  },
+  {
+    "author": "System",
+    "text": "Yxsa has joined the chat.",
+    "created": "2022-11-07 15:06:41"
+  },
+  {
+    "author": "Yxsa",
+    "text": "asdasd",
+    "created": "2022-11-07 15:06:45"
+  },
+  {
+    "author": "System",
+    "text": "Yxsa has left the chat.",
+    "created": "2022-11-07 15:06:46"
+  },
+  {
+    "author": "System",
+    "text": "asdf has joined the chat.",
+    "created": "2022-11-07 15:10:35"
+  },
+  {
+    "author": "asdf",
+    "text": "asdasdad",
+    "created": "2022-11-07 15:10:38"
+  },
+  {
+    "author": "System",
+    "text": "asdf has left the chat.",
+    "created": "2022-11-07 15:10:42"
+  },
+  {
+    "author": "System",
+    "text": "yyxcxyc has joined the chat.",
+    "created": "2022-11-07 15:14:18"
+  },
+  {
+    "author": "yyxcxyc",
+    "text": "yxc",
+    "created": "2022-11-07 15:14:21"
+  },
+  {
+    "author": "System",
+    "text": "yyxcxyc has left the chat.",
+    "created": "2022-11-07 15:14:23"
   }
 ]
